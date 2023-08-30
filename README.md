@@ -5,3 +5,5 @@ NPM     : 2206082915
 Kelas   : PBP A
 
 Hobi    : shopee cocoki
+
+Jurusan : Sistem Informasi 
